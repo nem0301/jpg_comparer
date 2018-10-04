@@ -1,0 +1,14 @@
+build/
+
+.swp
+.o
+.d
+
+*.so
+*.so.*
+*.a
+
+cscope.*
+tags
+
+.ycm_extra_conf.py
